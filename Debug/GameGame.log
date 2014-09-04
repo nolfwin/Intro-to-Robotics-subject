@@ -1,0 +1,43 @@
+﻿Build started 2/9/2557 16:53:02.
+     1>Project "C:\Users\User\Desktop\hand2014\Hand2014\GameGame\GameGame.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\GameGame.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /IC:\opencv\build\include /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt _main.cpp
+         _main.cpp
+     1>c:\users\user\desktop\hand2014\hand2014\gamegame\createconnector.h(106): warning C4800: 'int' : forcing value to bool 'true' or 'false' (performance warning)
+     1>c:\users\user\desktop\hand2014\hand2014\gamegame\createconnector.h(108): warning C4800: 'int' : forcing value to bool 'true' or 'false' (performance warning)
+     1>c:\users\user\desktop\hand2014\hand2014\gamegame\createconnector.h(109): warning C4800: 'int' : forcing value to bool 'true' or 'false' (performance warning)
+     1>c:\users\user\desktop\hand2014\hand2014\gamegame\createconnector.h(110): warning C4800: 'int' : forcing value to bool 'true' or 'false' (performance warning)
+     1>c:\users\user\desktop\hand2014\hand2014\gamegame\createconnector.h(112): warning C4800: 'char' : forcing value to bool 'true' or 'false' (performance warning)
+     1>c:\users\user\desktop\hand2014\hand2014\gamegame\createconnector.h(113): warning C4800: 'char' : forcing value to bool 'true' or 'false' (performance warning)
+     1>c:\users\user\desktop\hand2014\hand2014\gamegame\createconnector.h(114): warning C4800: 'char' : forcing value to bool 'true' or 'false' (performance warning)
+     1>c:\users\user\desktop\hand2014\hand2014\gamegame\createconnector.h(115): warning C4800: 'char' : forcing value to bool 'true' or 'false' (performance warning)
+     1>c:\users\user\desktop\hand2014\hand2014\gamegame\createconnector.h(116): warning C4800: 'char' : forcing value to bool 'true' or 'false' (performance warning)
+     1>c:\users\user\desktop\hand2014\hand2014\gamegame\createconnector.h(117): warning C4800: 'char' : forcing value to bool 'true' or 'false' (performance warning)
+     1>c:\users\user\desktop\hand2014\hand2014\gamegame\createconnector.h(118): warning C4800: 'int' : forcing value to bool 'true' or 'false' (performance warning)
+     1>c:\users\user\desktop\hand2014\hand2014\gamegame\createconnector.h(119): warning C4800: 'int' : forcing value to bool 'true' or 'false' (performance warning)
+     1>c:\users\user\desktop\hand2014\hand2014\gamegame\createconnector.h(120): warning C4800: 'int' : forcing value to bool 'true' or 'false' (performance warning)
+     1>c:\users\user\desktop\hand2014\hand2014\gamegame\createconnector.h(122): warning C4800: 'int' : forcing value to bool 'true' or 'false' (performance warning)
+     1>c:\users\user\desktop\hand2014\hand2014\gamegame\createconnector.h(126): warning C4800: 'int' : forcing value to bool 'true' or 'false' (performance warning)
+     1>c:\users\user\desktop\hand2014\hand2014\gamegame\createconnector.h(147): warning C4800: 'int' : forcing value to bool 'true' or 'false' (performance warning)
+     1>c:\users\user\desktop\hand2014\hand2014\gamegame\createconnector.h(148): warning C4800: 'int' : forcing value to bool 'true' or 'false' (performance warning)
+     1>c:\users\user\desktop\hand2014\hand2014\gamegame\createconnector.h(149): warning C4800: 'int' : forcing value to bool 'true' or 'false' (performance warning)
+     1>c:\users\user\desktop\hand2014\hand2014\gamegame\createconnector.h(150): warning C4800: 'int' : forcing value to bool 'true' or 'false' (performance warning)
+     1>c:\users\user\desktop\hand2014\hand2014\gamegame\createconnector.h(154): warning C4800: 'int' : forcing value to bool 'true' or 'false' (performance warning)
+     1>c:\users\user\desktop\hand2014\hand2014\gamegame\createconnector.h(159): warning C4800: 'char' : forcing value to bool 'true' or 'false' (performance warning)
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\User\Desktop\hand2014\Hand2014\Debug\GameGame.exe" /INCREMENTAL:NO /NOLOGO /LIBPATH:C:\opencv\build\x86\vc10\lib opencv_calib3d249d.lib opencv_contrib249d.lib opencv_core249d.lib opencv_features2d249d.lib opencv_flann249d.lib opencv_highgui249d.lib opencv_imgproc249d.lib opencv_nonfree249d.lib opencv_objdetect249d.lib User32.lib winmm.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\GameGame.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\User\Desktop\hand2014\Hand2014\Debug\GameGame.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\User\Desktop\hand2014\Hand2014\Debug\GameGame.lib" /MACHINE:X86 Debug\SerialPort.obj
+         Debug\_main.obj
+     1>SerialPort.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
+         GameGame.vcxproj -> C:\Users\User\Desktop\hand2014\Hand2014\Debug\GameGame.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\User\Desktop\hand2014\Hand2014\Debug\GameGame.exe;#1" /manifest Debug\GameGame.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Deleting file "Debug\GameGame.unsuccessfulbuild".
+         Touching "Debug\GameGame.lastbuildstate".
+     1>Done Building Project "C:\Users\User\Desktop\hand2014\Hand2014\GameGame\GameGame.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.02
